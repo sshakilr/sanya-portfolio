@@ -1,7 +1,6 @@
 # sanya-portfolio
-# sanya-shakil-portfolio
 
-# Unit 2 Challenge: Portfolio
+
 
 ## Your Task
 
