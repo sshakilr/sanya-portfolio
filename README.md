@@ -23,52 +23,22 @@ Here are the critical requirements necessary to develop a portfolio that satisfi
 * When images of the applications are clicked then the user is taken to that deployed application
 * When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
-## Mock-Up
+## Screenshot of deployed application;
+![sshakilr github io_sanya-portfolio_](https://user-images.githubusercontent.com/115811533/199128962-6ddc3e90-970f-4807-b193-ba7ce544221c.png)
 
-The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+## URL of deployed application;
+https://sshakilr.github.io/sanya-portfolio/
 
-Feel free to use your own colors and images.
 
-## Grading Requirements
+# What I learnt
+I learnt how to use flexbox to arrange items, how to chnag ethe font size fo headers, how to create variables, how to add hyperlinks to images.
 
-This challenge is graded based on the following criteria: 
+# challenges
+I found that some image pathways worked on some browsers, but didnt on others. I overcaem this by shortening the Pathway URL so that it starts with ´./`instead of `user/apple`.
 
-### Technical Acceptance Criteria: 40%
+# Contact
+Incase of any queries, contact;
+Email: Sanyashakil@hotmail.co.uk
 
-* Satisfies all of the above acceptance criteria.
 
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
