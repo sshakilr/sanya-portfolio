@@ -5,10 +5,10 @@ body{
 
 * {
     box-sizing: border-box;
-   background-color: beige;
+   background-color:rgb(245, 220, 235);
   }
 .header {
-    overflow: hidden;
+
     padding:0px;
     background-color: rgb(181, 215, 237); 
    
@@ -16,19 +16,22 @@ body{
 
 .background-image {
     background-repeat: no-repeat;
-    background-color: aqua;
+    background-color: rgb(126, 203, 226);
   background-size: contain;
   
 }
 
-.portfolio{
-    padding: 0%;
-    justify-content: flex-start;
+.portfolio a{
+     justify-content: flex-end;
     text-align: end;
+ 
+    
+ 
 }
  .hero-banner{
     text-decoration-color: aliceblue;
     justify-content: flex-end;
+    text-align: end;
  }
 
 .background-image {
@@ -36,12 +39,13 @@ body{
     padding: 0;
     background-size: cover;
     background-repeat: no-repeat;
-   
-
-    width: x;
-    height: x;
    } 
 
+   #contact ul a{
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-left: 10%;
+   }
    
   body {
     margin: 0;
@@ -51,11 +55,10 @@ body{
   }
   
   h1 {
-    font-size: 0%;
+    font-size: 250%;
     padding: 0%
-    
-    
-  }
+    }
+
   h2 {
     
 justify-content: end;
